@@ -1,1 +1,1 @@
-print("Hello World")
+print("Hello in WBS School")
